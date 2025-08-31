@@ -57,10 +57,18 @@
 
 ### 🌟 Featured Projects
 
-- 🚧 [Project One](https://github.com/your-github-username/project-one) — Short description about the project.
-- 🧩 [Project Two](https://github.com/your-github-username/project-two) — Another short highlight or feature.
-- 🛠 [Personal Website](https://your-portfolio-link.com) — Portfolio or resume site.
+- website develop:
+- [Project 1](https://github.com/your-github-username/project-one) — Short description about the project.
 
+
+- [Project Two](https://github.com/your-github-username/project-two) — Another short highlight or feature.
+- [Personal Website](https://your-portfolio-link.com) — Portfolio or resume site.
+- Inertial Navigation:
+- NLP:
+
+- CV:
+
+- Kaggle:
 ---
 
 ### 📬 Contact Me
