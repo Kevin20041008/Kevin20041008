@@ -58,27 +58,44 @@
 ### 🌟 Featured Projects
 
 - website develop:
-- [1.love_in_stars](https://github.com/Kevin20041008/love_in_stars) — 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
+- - [1.love_in_stars](https://github.com/Kevin20041008/love_in_stars) — 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
+- - [2.NKU_Geek](https://github.com/Kevin20041008/love_in_stars) —
 
-- [Project Two](https://github.com/your-github-username/project-two) — Another short highlight or feature.
+
 
 - Inertial Navigation:
 - NLP:
 
 - CV:
+- 大模型应用:
+- - [1.desktop_assistant](https://github.com/Kevin20041008/desktop_assistant) —
 
-- Kaggle:
+
 
 - Unity开发
 
 - 课内学习:
-- - 计组
+- - C++：
+  - [1.24Cpp-endterm-project](https://github.com/Kevin20041008/24Cpp-endterm-project) — 这是一个自己写的音乐游戏，并不完善，后续还会继续改进。
+ 
+- - 数据结构：
+- - 算法：
+  - 
+- - 计组：
 - - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
  
 
 - - OS
 - 
-- - C++
+
+ 
+- - Machine Learning
+  - - 课程作业：
+    - - [1.Perceptron](https://github.com/Kevin20041008/Perceptron_machinelearning) — 感知机模型
+      - [2.SVM](https://github.com/Kevin20041008/SVM_machinelearning) — 向量机
+      - [3.KNN](https://github.com/Kevin20041008/KNN_machinelearning) — K近邻
+      - [4.EndTerm](https://github.com/Kevin20041008/Machine_learningEndTerm) — 机器学习期末作业
+  - - kaggle类及竞赛：
 - 
 ---
 
