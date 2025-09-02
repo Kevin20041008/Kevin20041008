@@ -83,7 +83,7 @@
   - 
 - - 计组：
 - - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
- 
+- - - [2.EasyCompiler](https://github.com/Kevin20041008/EasyCompiler) — 这是一个简易编译器，将自定义语言或类C语言子集编译到汇编代码.
 
 - - OS
 - 
