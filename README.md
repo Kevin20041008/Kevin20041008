@@ -96,6 +96,8 @@
       - [3.KNN](https://github.com/Kevin20041008/KNN_machinelearning) — K近邻
       - [4.EndTerm](https://github.com/Kevin20041008/Machine_learningEndTerm) — 机器学习期末作业
   - - kaggle类及竞赛：
+    - -  [1.Titanic_predict](https://github.com/Kevin20041008/Titanic_predict) — Predict survival on the Titanic 
+    - -
 - 
 ---
 
