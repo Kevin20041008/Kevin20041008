@@ -58,25 +58,35 @@
 ### 🌟 Featured Projects
 
 - website develop:
-- [Project 1](https://github.com/your-github-username/project-one) — Short description about the project.
-
+- [1.love_in_stars](https://github.com/Kevin20041008/love_in_stars) — 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
 
 - [Project Two](https://github.com/your-github-username/project-two) — Another short highlight or feature.
-- [Personal Website](https://your-portfolio-link.com) — Portfolio or resume site.
+
 - Inertial Navigation:
 - NLP:
 
 - CV:
 
 - Kaggle:
+
+- Unity开发
+
+- 课内学习:
+- - 计组
+- - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
+ 
+
+- - OS
+- 
+- - C++
+- 
 ---
 
 ### 📬 Contact Me
 
 <p>
   <a href="mailto:xmkevin2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+ 
 </p>
 
 ---
