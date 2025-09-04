@@ -57,7 +57,7 @@
 
 ### 🌟 Featured Projects
 
-- website develop:
+- 前后端开发:
 - - [1.love_in_stars](https://github.com/Kevin20041008/love_in_stars) — 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
 - - [2.NKU_Geek](https://github.com/Kevin20041008/love_in_stars) —
 
