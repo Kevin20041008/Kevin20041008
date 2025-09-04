@@ -79,9 +79,12 @@
   - [1.24Cpp-endterm-project](https://github.com/Kevin20041008/24Cpp-endterm-project) — 这是一个自己写的音乐游戏，并不完善，后续还会继续改进。
  
 - - 数据结构：
+ 
+  - 
 - - 算法：
   -  [1.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — Kruskal和Prime算法
   -  [2.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — 区块链实现
+  -  
 - - 计组：
 - - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
 - - - [2.EasyCompiler](https://github.com/Kevin20041008/EasyCompiler) — 这是一个简易编译器，将自定义语言或类C语言子集编译到汇编代码.
@@ -106,9 +109,9 @@
 - - 数学建模过程：
   - 2025国赛：
   -  - 校赛：
-     -  [1.CV_ML](https://github.com/Kevin20041008/CV_ML) — 图像拼接和识别
+     -  [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
   -  - 国赛：
-     - [1.CV_ML](https://github.com/Kevin20041008/CV_ML) — 图像拼接和识别
+     - [2.Math_Modeling25](https://github.com/Kevin20041008/CV_ML) — 2025数学建模国赛A题（仓库地址待定）
 ---
 
 ### 📬 Contact Me
