@@ -1,99 +1,115 @@
-<h1 align="center">Hi 👋, I'm Li Jiaming</h1>
-<h3 align="center">An undergraduate student studying AI in Nankai University </h3>
-
-
-<p align="center">
-  <img src="http://www.jindacable.com/upload/default/20200710/1a7c26e38fa46728017af1c384a2cd68.jpg" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h1 align="center">👋 Hi, I'm Li Jiaming</h1>
+<h3 align="center">AI Undergraduate @ Nankai University | Passionate about Deep Learning & Open Source</h3>
 
 ---
 
-### 🧑‍💻 About Me
+👨‍💻 I'm an AI enthusiast currently exploring the fascinating world of deep learning and its applications. My interests lie in **Computer Vision (CV)** and **Large Language Models (LLMs)**.
 
-- 🔭 I’m currently working on **Postgraduate Entrance Examination**
-- 🌱 I’m currently learning **Machine Learning，Machine Vision Technology，Inertial Navigation**
-- 💬 Ask me about **CS＆AI**
-- 📫 How to reach me: **18350282676@163.com＆xmkevin2004@gmail.com**
-- 🧠 Hobbies: *Piano,badminton，fencing*
+🌱 I’m currently sharpening my skills in **PyTorch** and diving deeper into model optimization and deployment.
 
+💡 I enjoy transforming ideas into real-world projects and contributing to open source. Feel free to explore my repositories below!
+
+📫 How to reach me: **18350282676@163.com** 
 ---
 
-### 🚀 Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Programming Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**ML/DL Frameworks:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</p>
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
-- 前后端开发:
-- - [1.love_in_stars](https://github.com/Kevin20041008/love_in_stars) — 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
-- - [2.NKU_Geek](https://github.com/Kevin20041008/love_in_stars) —
+#### 前后端开发
+
+1.  **[NKU_Geek](项目链接)** - *Tech: PyTorch, OpenCV, etc.*
+    > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
+
+2.  **[项目名称](项目链接)** - *Tech: Transformers, LangChain, etc.*
+    > 另一个项目的描述。例如：A conversational QA chatbot powered by retrieval-augmented generation (RAG).
+
+3.  **[love_in_stars](https://github.com/Kevin20041008/love_in_stars)** - *Tech: Three.js, WebGL, etc.*
+    > 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
+---    
+
+
+#### Inertial Navigation:
+
+#### NLP:
+
+
+#### CV:
+
+
+#### 大模型应用:
+1.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
+    > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
+
+
+---
+
+#### Unity开发：
 
 
 
-- Inertial Navigation:
-- NLP:
-
-- CV:
-- 大模型应用:
-- - [1.desktop_assistant](https://github.com/Kevin20041008/desktop_assistant) —
 
 
 
-- Unity开发
 
-- 课内学习:
-- - C++：
-  - [1.24Cpp-endterm-project](https://github.com/Kevin20041008/24Cpp-endterm-project) — 这是一个自己写的音乐游戏，并不完善，后续还会继续改进。
+---
+#### 数学建模：
+##### 2025国赛：
+###### 校赛：
+     -  [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
+###### 国赛：
+     - [2.Math_Modeling25](https://github.com/Kevin20041008/CV_ML) — 2025数学建模国赛A题（仓库地址待定）
+---
+
+
+#### 课内学习:
+##### C++：
+1.  **[24Cpp-endterm-project](https://github.com/Kevin20041008/24Cpp-endterm-project)** - *Tech: PyTorch, OpenCV, etc.*
+    > 这是一个自己写的音乐游戏，并不完善，后续还会继续改进。
+
+
  
-- - 数据结构：
+##### 数据结构：
  
-  - 
-- - 算法：
-  -  [1.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — Kruskal和Prime算法
-  -  [2.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — 区块链实现
-  -  
-- - 计组：
+   
+##### 算法：
+  **  [1.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — Kruskal和Prime算法
+  **  [2.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — 区块链实现
+  **  
+##### 计组：
 - - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
 - - - [2.EasyCompiler](https://github.com/Kevin20041008/EasyCompiler) — 这是一个简易编译器，将自定义语言或类C语言子集编译到汇编代码.
 
-- - OS
+##### OS
 - 
 
  
-- - Machine Learning
+##### Machine Learning
   - - 课程作业：
     - - [1.Perceptron](https://github.com/Kevin20041008/Perceptron_machinelearning) — 感知机模型
       - [2.SVM](https://github.com/Kevin20041008/SVM_machinelearning) — 向量机
@@ -105,23 +121,8 @@
 - - CV_ML
   - [1.CV_ML](https://github.com/Kevin20041008/CV_ML) — 图像拼接和识别
  
-  - 
-- - 数学建模过程：
-  - 2025国赛：
-  -  - 校赛：
-     -  [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
-  -  - 国赛：
-     - [2.Math_Modeling25](https://github.com/Kevin20041008/CV_ML) — 2025数学建模国赛A题（仓库地址待定）
 ---
 
-### 📬 Contact Me
-
-<p>
-  <a href="mailto:xmkevin2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
