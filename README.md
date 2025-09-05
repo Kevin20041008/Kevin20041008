@@ -81,7 +81,7 @@
 #### 数学建模：
 ##### 2025国赛：
 ###### 校赛：
-     -  [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
+     - [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
 ###### 国赛：
      - [2.Math_Modeling25](https://github.com/Kevin20041008/CV_ML) — 2025数学建模国赛A题（仓库地址待定）
 ---
@@ -98,9 +98,10 @@
  
    
 ##### 算法：
-  **  [1.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — Kruskal和Prime算法
-  **  [2.Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime) — 区块链实现
-  **  
+1.  **[Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime)** — Kruskal和Prime算法
+2.  **[Kruskal-Prime](https://github.com/Kevin20041008/Kruskal-Prime)** — 区块链实现
+3.  **[Hybrid_Recommendation_Engine](https://github.com/Kevin20041008/Hybrid_Recommendation_Engine)** - *Key Techniques: CF, Clustering, Matrix Factorization,Hybrid Approach.* - *Tech Stack: Python, NumPy, Pandas, Scikit-learn, Apache Spark MLlib.*
+    > 使用 Python 设计和实现了一个强大的混合推荐引擎来预测用户偏好。该系统集成了多种技术：基于用户和基于物品的协同过滤用于生成基于相似度的推荐；K-Means/DBSCAN 聚类用于用户分群以识别广泛的用户偏好；矩阵分解（SVD）用于挖掘潜在特征并提高预测精度。技术栈包括用于数据和处理的 NumPy 和 Pandas，以及用于在大数据集上进行可扩展模型训练的 Spark MLlib.  
 ##### 计组：
 - - - [1.Simu_cpu](https://github.com/Kevin20041008/Simu_cpu) — 这是一个功能丰富的8位CPU模拟器，使用Python实现，能够模拟一个具有完整指令集、中断处理、内存映射I/O和浮点运算能力的虚拟CPU。
 - - - [2.EasyCompiler](https://github.com/Kevin20041008/EasyCompiler) — 这是一个简易编译器，将自定义语言或类C语言子集编译到汇编代码.
