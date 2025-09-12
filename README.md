@@ -70,6 +70,8 @@
 ---
 
 #### Unity开发：
+1.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
+    > 这是一个自己开发的小型Unity单机游戏，来源于星露谷物语的农场模式小游戏，本游戏的思路是用类似于Harry Potter内的魔法场景，模拟魔法世界的内容，这是第一个版本，后续可能会推出战争版本。
 
 
 
@@ -81,9 +83,14 @@
 #### 数学建模：
 ##### 2025国赛：
 ###### 校赛：
-     - [1.Nku_Math_Modeling25](https://github.com/Kevin20041008/Nku_Math_Modeling25) — 2025数学建模校赛C题
+     1.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
+    > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
+    
 ###### 国赛：
-     - [2.Math_Modeling25](https://github.com/Kevin20041008/CV_ML) — 2025数学建模国赛A题（仓库地址待定）
+
+2.  **[MCM_A](https://github.com/Kevin20041008/MCM_A)** - *Tech: numpy，pandas，matplotlib，concurrent.futures.ProcessPoolExecutor，进化式搜索.*
+    > 这是建模国赛的A题，用物理仿真 + 进化搜索来优化多无人机投放烟雾弹的时序/参数，最大化对多枚来袭导弹的有效遮蔽时长。同时给出两种指标：SUM（总和）与UNION（并集，推荐主指标），并提供并行多重重启、网格对比、三联热力图与误差条可视化。
+    > 参数优化：主指标：用 UNION（更贴近“系统有效防护时长”）。想更优：减小 DT_EVAL（0.03–0.05）、增大 BEST_ITERS/BEST_POP；想更快：增大 DT_GRID（0.08–0.10）或缩小网格与重启次数。服务器上可将 max_workers=None 充分利用多核；本地可限制为 8/16。进度条装不上可设 show_progress=False；或用简易打印版进度。
 ---
 
 
