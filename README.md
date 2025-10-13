@@ -128,6 +128,26 @@
     - -
 - - CV_ML
   - [1.CV_ML](https://github.com/Kevin20041008/CV_ML) — 图像拼接和识别
+  - 
+
+##### 计算机网络
+**MacOS_NativeUX** – Tech: Electron 30、Monaco Editor、Node.js 18+、CSS(Backdrop Filter/`-webkit-` 前缀)、IPC(Preload/ContextIsolation)、Touch Bar、Dock、Notifications、ARIA
+
+> 这是一个为桌面编辑器提供 **macOS 原生交互** 的最小实现：集成双指手势（横向滑动切换标签、捏合缩放字体、Safari 的旋转）、macOS 风格毛玻璃上下文菜单（键盘可达/ARIA）、Dock 徽章与 Dock 菜单、Touch Bar 快捷键、系统通知，以及一套轻量的协作状态 UI。项目采用 **主/渲染隔离 + 预加载桥接** 的结构，渲染进程只调用 `window.electronAPI`，保证安全与可维护性。  
+> **指标与可视化**：  
+> • *GestureHitRate(%)*（手势命中率）与 *SwitchDebounce(ms)*（切换去抖）；  
+> • 字号变化的 Zoom 指示器；  
+> • Dock 徽章展示在线用户数；  
+> • 控制台事件流（tabs:previous/next、layout:rotate）。  
+> **参数优化**：  
+> • 想更“原生”：Safari 下开启 `gesturestart/change/end` 并配合 `rotationThreshold=10°`；  
+> • 想更顺滑：`SWIPE_DELTA=35–45`、`SWIPE_COOLDOWN=200–300ms`、`PINCH_STEP=±1px`；  
+> • 想更稳：`passive:false` 截获 `wheel`，并对 `ctrlKey+wheel` 只做缩放；  
+> • 想更快：关闭动画或设置 `prefers-reduced-motion` 降级。  
+> **兼容与降级**：`backdrop-filter` 同写 `-webkit-backdrop-filter`；`-webkit-app-region` 仅在 Electron 场景通过给 `<html>` 注入 `is-electron` 类启用；CDN 受限时可改用 `monaco-editor` 本地路径。  
+> **配置开关**：`ENABLE_SAFARI_GESTURE`、`SWIPE_DELTA`、`SWIPE_COOLDOWN`、`PINCH_MIN/MAX`、`USE_LOCAL_MONACO`、`SHOW_PROGRESS`。  
+> 适合需要在 macOS 上提供 *近原生* 手感与系统级集成的编辑器/IDE/文档类应用，代码规模小、可快速嵌入既有前端。
+
  
 ---
 
