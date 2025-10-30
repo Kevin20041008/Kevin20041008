@@ -73,6 +73,8 @@
 1.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
     > 这是一个自己开发的小型Unity单机游戏，来源于星露谷物语的农场模式小游戏，本游戏的思路是用类似于Harry Potter内的魔法场景，模拟魔法世界的内容，这是第一个版本，后续可能会推出战争版本。
 
+2.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
+    > 这是一个自己开发的小型Unity单机游戏，来源于星露谷物语的农场模式小游戏，本游戏的思路是用类似于Harry Potter内的魔法场景，模拟魔法世界的内容，这是第一个版本，后续可能会推出战争版本。
 
 
 
