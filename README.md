@@ -9,7 +9,7 @@
 
 💡 I enjoy transforming ideas into real-world projects and contributing to open source. Feel free to explore my repositories below!
 
-📫 How to reach me: **18350282676@163.com** 
+📫 How to reach me: **18350282676@163.com or xmkevin2004@gmail.com** 
 ---
 
 ### 🛠️ Tech Stack
@@ -56,6 +56,7 @@
 
 #### Inertial Navigation:
 
+
 #### NLP:
 
 
@@ -77,7 +78,8 @@
     > 这是一个自己开发的小型Unity单机游戏，来源于星露谷物语的农场模式小游戏，本游戏的思路是用类似于Harry Potter内的魔法场景，模拟魔法世界的内容，这是第一个版本，后续可能会推出战争版本。
 
 
-
+##### RL
+- 
 
 
 
