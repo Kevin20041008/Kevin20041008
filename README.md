@@ -151,7 +151,7 @@
 1.  **[CV_ML](https://github.com/Kevin20041008/CV_ML)** - *Tech: Python.*
     > 图像拼接和识别
  
-##### deep Learning
+#### deep Learning
 1.  **[深度学习第一次](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
     >  Predict survival on the Titanic 
 2.  **[深度学习第二次](https://github.com/Kevin20041008/deeplearning2)** - *Tech: Python.*
