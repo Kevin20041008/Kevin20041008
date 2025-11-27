@@ -46,9 +46,8 @@
 1.  **[NKU_Geek](项目链接)** - *Tech: PyTorch, OpenCV, etc.*
     > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
 
-2.  **[项目名称](项目链接)** - *Tech: Transformers, LangChain, etc.*
-    > 另一个项目的描述。例如：A conversational QA chatbot powered by retrieval-augmented generation (RAG).
-
+2.  **[Flask 2048 增强版（毒格子 / 倒计时 / 成就系统）](项目链接)** - *ech: Python, Flask, Jinja2, HTML/CSS/JS.*
+    >一个基于 Flask 的 2048 Web 小游戏：完整实现经典移动/合并与随机生成逻辑，并加入「撤回一步（最多 20 步）」「毒格子（连续停留若干步后清零）」「倒计时格子（每步数值减半）」等机制；同时提供分数/最高分、步数与用时统计，以及 64～8192 的成就解锁提示，支持键盘方向键与页面按钮操作。
 3.  **[love_in_stars](https://github.com/Kevin20041008/love_in_stars)** - *Tech: Three.js, WebGL, etc.*
     > 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
 ---    
