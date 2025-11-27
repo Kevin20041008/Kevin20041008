@@ -46,7 +46,7 @@
 1.  **[NKU_Geek](https://github.com/Kevin20041008/NKUgeek)** - *Tech: PyTorch, OpenCV, etc.*
     > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
 
-2.  **[Flask 2048 增强版（毒格子 / 倒计时 / 成就系统）](https://github.com/Kevin20041008/2048)** - *ech: Python, Flask, Jinja2, HTML/CSS/JS.*
+2.  **[Flask 2048 增强版（毒格子 / 倒计时 / 成就系统）](https://github.com/Kevin20041008/2048)** - *Tech: Python, Flask, Jinja2, HTML/CSS/JS.*
     >一个基于 Flask 的 2048 Web 小游戏：完整实现经典移动/合并与随机生成逻辑，并加入「撤回一步（最多 20 步）」
     >「毒格子（连续停留若干步后清零）」「倒计时格子（每步数值减半）」等机制；
     >同时提供分数/最高分、步数与用时统计，以及 64～8192 的成就解锁提示，支持键盘方向键与页面按钮操作。
