@@ -43,13 +43,20 @@
 
 #### 前后端开发
 
-1.  **[NKU_Geek](项目链接)** - *Tech: PyTorch, OpenCV, etc.*
+1.  **[NKU_Geek](https://github.com/Kevin20041008/NKUgeek)** - *Tech: PyTorch, OpenCV, etc.*
     > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.
 
-2.  **[Flask 2048 增强版（毒格子 / 倒计时 / 成就系统）](项目链接)** - *ech: Python, Flask, Jinja2, HTML/CSS/JS.*
-    >一个基于 Flask 的 2048 Web 小游戏：完整实现经典移动/合并与随机生成逻辑，并加入「撤回一步（最多 20 步）」「毒格子（连续停留若干步后清零）」「倒计时格子（每步数值减半）」等机制；同时提供分数/最高分、步数与用时统计，以及 64～8192 的成就解锁提示，支持键盘方向键与页面按钮操作。
+2.  **[Flask 2048 增强版（毒格子 / 倒计时 / 成就系统）](https://github.com/Kevin20041008/2048)** - *ech: Python, Flask, Jinja2, HTML/CSS/JS.*
+    >一个基于 Flask 的 2048 Web 小游戏：完整实现经典移动/合并与随机生成逻辑，并加入「撤回一步（最多 20 步）」
+    >「毒格子（连续停留若干步后清零）」「倒计时格子（每步数值减半）」等机制；
+    >同时提供分数/最高分、步数与用时统计，以及 64～8192 的成就解锁提示，支持键盘方向键与页面按钮操作。
 3.  **[love_in_stars](https://github.com/Kevin20041008/love_in_stars)** - *Tech: Three.js, WebGL, etc.*
-    > 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
+    > 这是一个浪漫的星空粒子动画网页，结合了动态星空背景、流星效果和粒子文字和图形变换，营造出浪漫的视觉效果。采用动态的星空背景、粒子动画系统，且粒子可在四种形态间循环切换，另外还设计了带有播放和暂停控制按钮的背景音乐。
+    > 主要使用HTML5 Canvas绘制所有视觉效果、双Canvas分层技术（星空背景层和粒子动画层）、物理模拟实现粒子运动和形状变换和文本到Canvas像素数据转换算法。
+    > 这个项目适合用于纪念日展示、浪漫表白或作为网页背景，通过技术手段创造出富有情感表达的视觉体验。
+4.  **[macos-editor-demo](https://github.com/Kevin20041008/macos-editor-demo)** - *Tech: PyTorch, OpenCV, etc.*
+    > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset.    
+   
 ---    
 
 
@@ -134,22 +141,7 @@
   - 
 
 ##### 计算机网络
-**MacOS_NativeUX** – Tech: Electron 30、Monaco Editor、Node.js 18+、CSS(Backdrop Filter/`-webkit-` 前缀)、IPC(Preload/ContextIsolation)、Touch Bar、Dock、Notifications、ARIA
 
-> 这是一个为桌面编辑器提供 **macOS 原生交互** 的最小实现：集成双指手势（横向滑动切换标签、捏合缩放字体、Safari 的旋转）、macOS 风格毛玻璃上下文菜单（键盘可达/ARIA）、Dock 徽章与 Dock 菜单、Touch Bar 快捷键、系统通知，以及一套轻量的协作状态 UI。项目采用 **主/渲染隔离 + 预加载桥接** 的结构，渲染进程只调用 `window.electronAPI`，保证安全与可维护性。  
-> **指标与可视化**：  
-> • *GestureHitRate(%)*（手势命中率）与 *SwitchDebounce(ms)*（切换去抖）；  
-> • 字号变化的 Zoom 指示器；  
-> • Dock 徽章展示在线用户数；  
-> • 控制台事件流（tabs:previous/next、layout:rotate）。  
-> **参数优化**：  
-> • 想更“原生”：Safari 下开启 `gesturestart/change/end` 并配合 `rotationThreshold=10°`；  
-> • 想更顺滑：`SWIPE_DELTA=35–45`、`SWIPE_COOLDOWN=200–300ms`、`PINCH_STEP=±1px`；  
-> • 想更稳：`passive:false` 截获 `wheel`，并对 `ctrlKey+wheel` 只做缩放；  
-> • 想更快：关闭动画或设置 `prefers-reduced-motion` 降级。  
-> **兼容与降级**：`backdrop-filter` 同写 `-webkit-backdrop-filter`；`-webkit-app-region` 仅在 Electron 场景通过给 `<html>` 注入 `is-electron` 类启用；CDN 受限时可改用 `monaco-editor` 本地路径。  
-> **配置开关**：`ENABLE_SAFARI_GESTURE`、`SWIPE_DELTA`、`SWIPE_COOLDOWN`、`PINCH_MIN/MAX`、`USE_LOCAL_MONACO`、`SHOW_PROGRESS`。  
-> 适合需要在 macOS 上提供 *近原生* 手感与系统级集成的编辑器/IDE/文档类应用，代码规模小、可快速嵌入既有前端。
 
  
 ---
