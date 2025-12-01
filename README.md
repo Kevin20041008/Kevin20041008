@@ -85,7 +85,9 @@
 
 
 ##### RL
-- 
+1.  **[adversarial_lunar_lander](https://github.com/Kevin20041008/adversarial_lunar_lander)** - *Tech: PyTorch, Gymnasium, Box2D, Stable-Baselines3, etc.*
+    > 基于 OpenAI Gym 的 LunarLander 环境构建带随机/对抗侧风与重力扰动的对抗性着陆任务，将问题升级为部分可观测 POMDP，并使用 Recurrent PPO + LSTM 训练在恶劣动态环境下仍具鲁棒性和泛化能力的着陆策略。
+
 
 
 
