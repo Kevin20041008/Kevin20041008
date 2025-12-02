@@ -90,6 +90,15 @@
 
 
 
+#### 论文复现：
+
+1.  **[clip_reproduction](https://github.com/Kevin20041008/adversarial_lunar_lander)** - *Tech: PyTorch, Transformers, ResNet50, BERT, Contrastive Learning, etc.*
+    > 基于《Learning Transferable Visual Models From Natural Language Supervision》论文复现一个轻量级 CLIP 模型，实现图像编码器（ResNet-50）与文本编码器（BERT）的双塔结构，使用对比学习（InfoNCE/CLIP Loss）在图文对齐任务上训练多模态表征，并支持 zero-shot 图像分类与图文检索，在小规模数据集上重现原论文的核心能力。
+
+
+
+
+
 
 ---
 #### 数学建模：
@@ -107,6 +116,10 @@
 3.  **[desktop_assistant](https://github.com/Kevin20041008/desktop_assistant)** - *Tech: PyTorch, OpenCV, etc.*
     > 在这里用一两句话清晰描述项目的核心目标、你采用的技术亮点以及实现的成果。例如：A real-time object detection system using YOLOv7, achieving 85% mAP on COCO dataset. 
 ---
+
+
+
+
 
 
 #### 课内学习:
