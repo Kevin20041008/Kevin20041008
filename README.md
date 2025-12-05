@@ -168,11 +168,13 @@
  
 #### deep Learning
 1.  **[深度学习第一次](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
-    >  Predict survival on the Titanic 
-2.  **[深度学习第二次](https://github.com/Kevin20041008/deeplearning2)** - *Tech: Python.*
-    >  Predict survival on the Titanic 
-3.  **[深度学习第三次](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
-    >  Predict survival on the Titanic 
+    >  
+2.  **[深度学习第二次]([https://github.com/Kevin20041008/deeplearning2](https://github.com/Kevin20041008/deeplearning2))** - *Tech: Python.*
+    >  
+3.  **[深度学习第三次]([https://github.com/Kevin20041008/Titanic_predict](https://github.com/Kevin20041008/deeplearning3))** - *Tech: Python.*
+    >
+4.  **[深度学习第四次]([https://github.com/Kevin20041008/Titanic_predict](https://github.com/Kevin20041008/deeplearning3))** - *Tech: Python.*
+    >  
 ##### 计算机网络
 
 
