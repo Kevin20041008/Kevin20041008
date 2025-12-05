@@ -169,13 +169,13 @@
 #### deep Learning
 1.  **[深度学习第一次](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
     >  
-2.  **[深度学习第二次]([https://github.com/Kevin20041008/deeplearning2](https://github.com/Kevin20041008/deeplearning2))** - *Tech: Python.*
+2.  **[深度学习第二次](https://github.com/Kevin20041008/deeplearning2)** - *Tech: Python.*
     >  本项目围绕卷积神经网络在图像分类任务中的应用展开，使用 Fashion-MNIST 数据集作为实验对象，重点在于理解经典卷积网络架构及其变体的性能表现。
     > 实验首先以 LeNet 作为基础模型，对训练过程中的损失函数、训练误差与测试误差随 epoch 的变化进行可视化，以观察网络收敛特性。在此基础上，项目进一步探索多种结构改动对模型效果的影响，包括将激活函数从 Sigmoid 更换为 ReLU、在不同激活函数后引入 BatchNorm、改变卷积核尺寸与输出通道数量，以及比较 average pooling 与 max pooling 的差异。除了基础要求外，实验还鼓励在算力许可范围内尝试更复杂的网络架构，如 VGG、NIN、GoogleNet 和 ResNet，以体会深层网络在表达能力与训练稳定性方面的差异。整体而言，该项目旨在通过系统且可控的架构实验，帮助理解卷积网络的构成方式及其对模型性能的具体影响。
-3.  **[深度学习第三次]([https://github.com/Kevin20041008/Titanic_predict](https://github.com/Kevin20041008/deeplearning3))** - *Tech: Python.*
+3.  **[深度学习第三次](https://github.com/Kevin20041008/deeplearning3)** - *Tech: Python.*
     >本项目围绕 Titanic 数据集展开，以生存预测为核心任务，通过深度学习模型探究特征对生存概率的影响。项目从数据清洗、特征工程到模型构建均采用结构化流程，包括对乘客信息的向量化处理、归一化、训练集与验证集的划分，以及多层感知机（MLP）模型的搭建与训练。
     >模型训练过程中对损失变化与准确率进行了跟踪，并通过调整网络结构、优化器与超参数来提升模型性能。最终模型能够对测试集乘客进行生存预测，体现了深度学习在结构化数据任务上的应用能力，同时也为进一步探索更复杂模型（如更深网络、正则化、特征选择等）奠定基础。
-4.  **[深度学习第四次]([https://github.com/Kevin20041008/Titanic_predict](https://github.com/Kevin20041008/deeplearning3))** - *Tech: Python.*
+4.  **[深度学习第四次](https://github.com/Kevin20041008/deeplearning3)** - *Tech: Python.*
     >  
 ##### 计算机网络
 
