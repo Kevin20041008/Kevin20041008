@@ -84,7 +84,7 @@
     > 这是一个自己开发的小型Unity单机游戏，来源于星露谷物语的农场模式小游戏，本游戏的思路是用类似于Harry Potter内的魔法场景，模拟魔法世界的内容，这是第一个版本，后续可能会推出战争版本。
 
 
-##### RL
+##### 强化学习（RL）小项目及论文复现
 1.  **[adversarial_lunar_lander](https://github.com/Kevin20041008/adversarial_lunar_lander)** - *Tech: PyTorch, Gymnasium, Box2D, Stable-Baselines3, etc.*
     > 基于 OpenAI Gym 的 LunarLander 环境构建带随机/对抗侧风与重力扰动的对抗性着陆任务，将问题升级为部分可观测 POMDP，并使用 Recurrent PPO + LSTM 训练在恶劣动态环境下仍具鲁棒性和泛化能力的着陆策略。
 
