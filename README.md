@@ -185,8 +185,16 @@
     >  
 4.  **[人工智能第四次实验](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
     >  
-##### 计算机网络
 
+##### 前沿智能算法课程论文
+1.  **[前沿智能算法论文](https://github.com/Kevin20041008/Cutting-edge-intelligent-algorithms)** 
+2.  
+##### 运筹学资料
+1. **[课件及作业文档](https://github.com/Kevin20041008/Operations_Research1)**
+2. **[作业解答及笔记](https://github.com/Kevin20041008/Operations_Research2)**
+
+   
+##### 计算机网络
  
 ---
 
