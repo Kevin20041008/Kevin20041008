@@ -176,7 +176,7 @@
     >模型训练过程中对损失变化与准确率进行了跟踪，并通过调整网络结构、优化器与超参数来提升模型性能。最终模型能够对测试集乘客进行生存预测，体现了深度学习在结构化数据任务上的应用能力，同时也为进一步探索更复杂模型（如更深网络、正则化、特征选择等）奠定基础。
 4.  **[深度学习第四次](https://github.com/Kevin20041008/deeplearning3)** - *Tech: Python.*
     >  
-##### 人工智能实验
+#### 人工智能实验
 1.  **[人工智能第一次实验](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
     >  
 2.  **[人工智能第二次实验](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
@@ -186,15 +186,15 @@
 4.  **[人工智能第四次实验](https://github.com/Kevin20041008/Titanic_predict)** - *Tech: Python.*
     >  
 
-##### 前沿智能算法课程论文
+#### 前沿智能算法课程论文
 1.  **[前沿智能算法论文](https://github.com/Kevin20041008/Cutting-edge-intelligent-algorithms)** 
 2.  
-##### 运筹学资料
+#### 运筹学资料
 1. **[课件及作业文档](https://github.com/Kevin20041008/Operations_Research1)**
 2. **[作业解答及笔记](https://github.com/Kevin20041008/Operations_Research2)**
 
    
-##### 计算机网络
+#### 计算机网络
  
 ---
 
