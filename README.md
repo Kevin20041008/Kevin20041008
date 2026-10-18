@@ -39,7 +39,7 @@ Qiyang Sun, Xudong Li, Yupei Li, Jiabin Xue, Yuhang Dai, **Jiaming Li**, Björn 
 >
 > A bilingual counterfactual framework for auditing lexical and prosodic reliance in spoken sarcasm detection, distinguishing acoustic sensitivity from sarcasm discrimination.
 
-**[阅读论文 · Read on arXiv →](https://arxiv.org/html/2609.16582)**
+**[阅读论文 · Read on arXiv →](https://arxiv.org/html/2609.16582)** · **[开源代码 · Code on GitHub →](https://github.com/glam-imperial/clash)**
 
 ## 🌱 开源贡献 · Open Source Contributions
 
@@ -59,7 +59,7 @@ An open learning resource for medical students and computing beginners, covering
 
 An open topology textbook in Chinese, combining rigorous proofs, interactive browser experiments, and Python/Jupyter notebooks to connect mathematical intuition with computational practice.
 
-**[查看项目 · View on GitHub →](https://github.com/Kevin20041008/topology-from-zero)**
+**[在线阅读 · Read online →](https://kevin20041008.github.io/topology-from-zero/)** · **[查看项目 · View on GitHub →](https://github.com/Kevin20041008/topology-from-zero)**
 
 ---
 
